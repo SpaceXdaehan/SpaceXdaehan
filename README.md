@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ## 🤝🏻 &nbsp;Contact
 <a href="mailto:sowonkim177@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sowon-dev.github.io/)]([https://sowon-dev.github.io/](https://daehanx.tistory.com/))
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sowon-dev.github.io/)]([https://sowon-dev.github.io/](https://daehanx.tistory.com/)) 
 
 
 <!--
