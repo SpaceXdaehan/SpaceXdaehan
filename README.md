@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ## 💻 &nbsp;GitHub Analytics
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Daehan&hide=stars&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Daehan&hide=stars&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsowon-dev%2Fhit-counter)](https://hits.seeyoufarm.com)
 
