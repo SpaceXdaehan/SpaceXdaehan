@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/css-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
 ## 💻 &nbsp;GitHub Analytics
