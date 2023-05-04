@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 
 ## 💻 &nbsp;GitHub Analytics
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Daehan&hide=stars&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
