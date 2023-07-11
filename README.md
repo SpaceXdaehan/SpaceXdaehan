@@ -33,6 +33,10 @@ Here are some ideas to get you started:
 <br/>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsowon-dev%2Fhit-counter)](https://hits.seeyoufarm.com)
 
+<strong>Github stats</strong>
+
+![Taehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangTaehyun&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
+
 
 
 ## 🤝🏻 &nbsp;Contact
