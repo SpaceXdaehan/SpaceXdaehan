@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 <strong>Github stats</strong>
 
-![Taehyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangTaehyun&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
+![Daehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpaceXdaehan&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
 
 
 
