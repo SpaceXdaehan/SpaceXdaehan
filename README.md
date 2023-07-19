@@ -35,16 +35,3 @@ Here are some ideas to get you started:
 <strong>Github stats</strong>
 
 ![Daehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpaceXdaehan&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
-
-
-
-## 🤝🏻 &nbsp;Contact
-
-<a href="mailto:wleogks94@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sowon-dev.github.io/)]([https://sowon-dev.github.io/](https://daehanx.tistory.com/))
-
-
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sowon-dev&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
-GitGit
--->
