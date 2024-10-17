@@ -23,10 +23,11 @@ Here are some ideas to get you started:
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
--->  
+
 
 ## 💻 &nbsp;GitHub Analytics
 <strong>Github stats</strong>
 
 ![Daehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SpaceXdaehan&hide=prs&count_private=true&include_all_commits=true&show_icons=true&theme=swift)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SpaceXdaehan&layout=compact)
+-->  
