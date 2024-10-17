@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...  
--->      
+    
 
 ## 🛠 &nbsp;Technical Skills
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)&nbsp;
@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/Git-f05032?style=flat&logo=Git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-
+-->  
 
 ## 💻 &nbsp;GitHub Analytics
 <strong>Github stats</strong>
